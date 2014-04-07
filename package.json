@@ -1,7 +1,7 @@
 {
   "name": "gaffa-form",
   "author": "Kory Nunn <knunn187@gmail.com>",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "main": "form.js",
   "repository": {
     "type": "git",
