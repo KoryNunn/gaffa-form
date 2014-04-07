@@ -16,7 +16,12 @@
     "view"
   ],
   "peerDependencies": {
-    "gaffa": "^1.0.0"
+    "gaffa": "^1.4.3"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "description": "form view for gaffa",
+  "homepage": "https://github.com/KoryNunn/gaffa-form",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }
