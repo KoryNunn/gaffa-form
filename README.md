@@ -17,3 +17,13 @@ form view for gaffa
 ### valid (set)
 
     The rendered elements validity state.
+
+### method (set)
+
+    The rendered elements method.
+
+### action (set)
+
+    The rendered elements action.
+
+    Note: If a Forms action is not set, the its submit event will be preventDefault()'d
